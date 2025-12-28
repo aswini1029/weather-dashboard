@@ -1,0 +1,19 @@
+body {
+  background:#4facfe;
+  font-family: Arial;
+}
+.box {
+  background:white;
+  width:320px;
+  padding:20px;
+  margin:120px auto;
+  border-radius:10px;
+  text-align:center;
+}
+input {
+  padding:6px;
+  margin-bottom:10px;
+}
+button {
+  padding:6px 10px;
+}
